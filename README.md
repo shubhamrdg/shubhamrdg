@@ -63,11 +63,11 @@ I'm a **B.Tech Computer Science student** at **Sanskriti University** who builds
 ## 📂 Featured Projects
 
 <table>
-  <tr>
-    <td width="50%" valign="top">
+<tr>
+<td width="50%" valign="top">
 
 ### 🍲 Ann Daan Setu
-**Full-Stack Food Donation Platform** · *Feb – Apr 2026*
+**Full-Stack Food Donation Platform** · [anndaansetu.vercel.app](https://anndaansetu.vercel.app)<br/>*Feb – Apr 2026*
 
 University major project (VI Semester) that connects **food donors, volunteers and NGOs** across Uttar Pradesh.
 
@@ -77,8 +77,8 @@ University major project (VI Semester) that connects **food donors, volunteers a
 ![MERN](https://img.shields.io/badge/Stack-MERN-4EA94B?style=flat-square)
 ![Impact](https://img.shields.io/badge/Focus-Social_Impact-e11d48?style=flat-square)
 
-    </td>
-    <td width="50%" valign="top">
+</td>
+<td width="50%" valign="top">
 
 ### 🌐 Personal Portfolio
 **Developer Portfolio** · [shubhamrdg.vercel.app](https://shubhamrdg.vercel.app)
@@ -91,8 +91,8 @@ Published on Vercel, it showcases my MERN projects, internship experience, techn
 ![Vercel](https://img.shields.io/badge/Hosted_on-Vercel-000000?style=flat-square&logo=vercel)
 ![Live](https://img.shields.io/badge/Status-Live-2ea44f?style=flat-square)
 
-    </td>
-  </tr>
+</td>
+</tr>
 </table>
 
 ---
