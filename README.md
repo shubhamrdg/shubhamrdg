@@ -142,9 +142,9 @@ Published on Vercel, it showcases my MERN projects, internship experience, techn
 |---|---|
 | 🏅 Delta, Full Stack Web Development | Apna College |
 | 🏅 TCS iON Career Edge, Young Professional | TCS iON |
-| 🏅 HTML5 & CSS3 Complete Course | Online course |
-| 🏅 JavaScript Essentials 1 & 2 | Online course |
-| 🤖 AI Appreciate Badge · AI Aware Badge | AI For All |
+| 🏅 HTML5 & CSS3 Complete Course | Udemy |
+| 🏅 JavaScript Essentials 1 & 2 | Cisco Network Academy |
+| 🤖 AI Appreciate Badge · AI Aware Badge | United Latino Students Association |
 
 ---
 
